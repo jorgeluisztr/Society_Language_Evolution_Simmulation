@@ -38,7 +38,6 @@ class Agent:
 
         self.memory = memory
         self.memorylimit = memorylimit
-        self.prohibidas = {}
 
     def word_at_steady_steady_state(self, nobj, word_st, word_bag_steady_state, wordlist):
 
